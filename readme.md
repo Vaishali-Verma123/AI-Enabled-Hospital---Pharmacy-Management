@@ -22,6 +22,7 @@ Optimize operational workflows
 This ensures efficiency, proactive healthcare, and improved patient satisfaction.
 
 Phase 1: Problem Understanding & Industry Analysis
+
 This phase focuses on analyzing current healthcare management challenges and laying the foundation for building an effective Salesforce solution.
 
 Tasks in Phase 1
@@ -30,6 +31,7 @@ Stakeholder Analysis
 Business Process Mapping
 Healthcare Use Case Research
 Review of Existing Solutions / AppExchange Exploration
+
 1️. Requirement Gathering
 Problem Statement
 Currently, most hospitals and clinics rely on manual or disconnected processes:
@@ -78,14 +80,18 @@ Performance	LWC pages and Apex processes should load quickly and execute efficie
 Usability / User Experience	Intuitive interface, mobile-friendly design for easy access
 Maintainability	Modular code and configurations for easy updates or extensions
 Compliance	Adhere to healthcare regulations and data privacy standards (HIPAA or local equivalents)
+
 2️. Stakeholder Analysis
+
 Stakeholder	Role in System	Access Level
 Admin (Hospital Manager)	Oversees appointments, inventory, billing, reports	Full Access
 Doctor	Manage schedule, view patients, approve urgent cases	Edit Access
 Pharmacist	Manage medicine inventory, handle stock alerts	Edit Access
 Nurse	Assist with patient check-in and updates	Limited Edit Access
 Patient	Book appointments, view history & prescriptions, receive refill reminders	Read/Write Own Data
+
 3️. Business Process Mapping
+
 Current Manual Process
 Patients call or visit the hospital/clinic to book appointments.
 Medicine inventory is tracked manually; expired or low-stock medicines may be missed.
@@ -102,7 +108,9 @@ Reminders	Staff follow-ups	Automatic email/SMS reminders for appointments and me
 Reports / Analytics	Monthly spreadsheet compilation	Real-time dashboards for administrators and staff
 Patient Access	Delayed and indirect updates	Real-time access through Salesforce portal or mobile app
 Medicine Refill	Patients manually revisit pharmacy	AI calculates usage, notifies patients, and allows one-click refill ordering
-4️. Industry-Specific Use Case Analysis
+4️.
+Industry-Specific Use Case Analysis
+
 Platform / System	Key Features	Gap Identified
 Generic Hospital Management Systems	Appointment scheduling, billing, basic inventory	Often not integrated end-to-end; limited predictive analytics
 Pharmacy Inventory Software	Stock tracking, batch and expiry management	Lacks integration with appointments, billing, and patient history
