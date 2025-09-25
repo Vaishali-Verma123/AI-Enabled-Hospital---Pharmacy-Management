@@ -1,4 +1,9 @@
 AI-Enabled Hospital & Pharmacy Management – Salesforce Healthcare System
+
+
+
+
+AI-Enabled Hospital & Pharmacy Management – Salesforce Healthcare System
 Project Overview
 The AI-Enabled Hospital & Pharmacy Management system is a Salesforce-based solution designed to digitize and centralize hospital and clinic operations. The goal is to streamline processes like appointment scheduling, medicine inventory management, billing, and patient history tracking, while providing real-time access to doctors, nurses, pharmacists, and administrators.
 
